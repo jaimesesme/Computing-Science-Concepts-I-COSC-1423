@@ -1,0 +1,14 @@
+AStar Tacos	5.99	600
+AMars Burger	7.88	200
+AJuice	1.99	20
+ASandwich	8.99	20
+ARuben	7.99	20
+AMilkey Way Coke	1.99	20
+P
+AIce Cream	1.99	20
+AMars Steak	18.99	20
+UJuice	2.20	30
+P
+DMars Burger	1.99	20
+P
+E
